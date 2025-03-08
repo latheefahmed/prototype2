@@ -1,0 +1,4 @@
+df_level1 = pd.read_csv(r'C:\Users\lathe\Desktop\rag model training\dataset\knowledge_plan_grouping.csv')
+df_level2 = pd.read_csv(r"C:\Users\lathe\Desktop\rag model training\dataset\knowledge_premium_grouping.csv")
+df_level3 = pd.read_csv(r"C:\Users\lathe\Desktop\rag model training\dataset\knowlede_plan_disease_combinations.csv")
+df_level4 = pd.read_csv(r"C:\Users\lathe\Desktop\rag model training\dataset\insurance_plans_by_disease.csv")
